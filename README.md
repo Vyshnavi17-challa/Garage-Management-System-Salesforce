@@ -34,6 +34,7 @@ Salesforce CRM
 ->Reports: Detailed service history, customer feedback, and billing summaries
 
 ->Dashboards: Line charts for weekly appointments, service frequency trends, and customer satisfaction metrics
+
 ▶️ How to Run/View the Project:
 
 ->Login to your Salesforce Developer Org.
@@ -41,9 +42,13 @@ Salesforce CRM
 ->Navigate to App Launcher and open Garage Management System App.
 
 ->View custom objects like:
+
 .Customer Detail
+
 .Appointment
+
 .Service Record
+
 .Billing & Feedback
 
 ->Check Reports and Dashboards tabs to explore the visual insights.
